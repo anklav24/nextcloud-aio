@@ -5,3 +5,4 @@
 - go to reverse-proxy domain https://nextcloud.duckdns.org/login
 - after start use https://nextcloud.mikrotik24.duckdns.org/settings/admin/overview
 
+- User default admin account to access AIO UI -> settings -> Overview
